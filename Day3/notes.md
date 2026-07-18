@@ -172,7 +172,7 @@ Docker Networking provides isolated communication between Docker containers.
 
 Bridge Network
 
-* Isolated
+* Isolated 
 * Uses NAT
 * Requires port mapping
 
